@@ -14,11 +14,16 @@ Following packages are needed to run this code:
 
 # Citation
 If you find this code or paper helpful, please cite this work using the following details:
-
 @article{Machine2022Lattice,
+
   title={Machine Learning in Predicting Lattice Constant of Cubic Perovskite Oxides},
+  
   author={Poudel, Ujjwal and Bhusal, Madhu S and Bhurtel, Manish and Adhikari, Atish and Adhikari, Narayan},
+  
   journal={Journal of Nepal Physical Society (JNPS)},
+  
   volume={22},
+  
   year={2022}
+  
 }
