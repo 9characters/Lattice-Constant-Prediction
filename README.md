@@ -14,6 +14,7 @@ Following packages are needed to run this code:
 
 # Citation
 If you find this code or paper helpful, please cite this work using the following details:
+
 @article{Machine2022Lattice,
 
   title={Machine Learning in Predicting Lattice Constant of Cubic Perovskite Oxides},
