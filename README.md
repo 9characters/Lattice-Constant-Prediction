@@ -23,8 +23,6 @@ If you find this code or paper helpful, please cite this work using the followin
   
   journal={Journal of Nepal Physical Society (JNPS)},
   
-  volume={22},
-  
   year={2022}
   
 }
